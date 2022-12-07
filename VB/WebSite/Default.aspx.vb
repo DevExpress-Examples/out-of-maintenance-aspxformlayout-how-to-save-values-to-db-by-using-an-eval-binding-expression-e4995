@@ -1,6 +1,5 @@
 ﻿Imports Microsoft.VisualBasic
-Imports DevExpress.Web.ASPxEditors
-Imports DevExpress.Web.ASPxFormLayout
+Imports DevExpress.Web
 Imports System
 Imports System.Collections.Generic
 Imports System.Linq
